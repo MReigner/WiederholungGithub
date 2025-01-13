@@ -2,5 +2,6 @@ Hallo das ist ein Textfile und so!!!
 
 asdklfjkladsjfaklsdjfkl
 
+Good Bye!
 
  MAchen wir die Zeile nochmal !
