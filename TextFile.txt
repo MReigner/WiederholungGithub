@@ -9,3 +9,6 @@ Good Bye!
 Eine Änderung aus dem Github!
 
 MAchen wir die Zeile nochmal !
+
+
+Eine Änderung aus dem lokalen Branch für Github
